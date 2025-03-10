@@ -13,7 +13,7 @@ Hi, I'm Emin Karagöz! Here's a collection of my projects and repositories.
 ### 3. 🎮 [Rock-Paper-Scissors](https://github.com/karagozemin/rock-paper-scissors)
 **Description:** A classic rock-paper-scissors game implemented using HTML, CSS, and JavaScript. Features a user interface and a scoring system to track game results.  
 
-### 4. 🔐 [Privy EthGlobal Hackathon Project](https://github.com/karagozemin/privy)
+### 4. 🔐 [Privy EthGlobal Hackathon Project](https://github.com/karagozemin/DASF)
 **Description:** A project developed for the **EthGlobal Hackathon** using **Privy**. It focuses on enhancing blockchain-based authentication and privacy features.  
 
 ---
