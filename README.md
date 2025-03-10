@@ -19,6 +19,5 @@ Hi, I'm Emin Karagöz! Here's a collection of my projects and repositories.
 ---
 
 🌍 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/emin-karagöz/)
 [Twitter](https://x.com/kaptan_web3)
-
+[LinkedIn](https://www.linkedin.com/in/emin-karagöz/)
