@@ -16,7 +16,7 @@ Hi, I'm Emin Karagöz! Here's a collection of my projects and repositories.
 ### 4. 🔐 [Privy EthGlobal Hackathon Project](https://github.com/karagozemin/DASF)
 **Description:** A project developed for the **EthGlobal Hackathon** using **Privy**. It focuses on enhancing blockchain-based authentication and privacy features.  
 
-5. ⏳ [Pomodoro Timer](https://github.com/karagozemin/Pomodoro) 
+### 5. ⏳ [Pomodoro Timer](https://github.com/karagozemin/Pomodoro) 
    **Description:** A simple Pomodoro timer built with HTML, CSS, and JavaScript. Helps improve focus and productivity by following the Pomodoro technique with customizable work and break intervals.
 
 ---
