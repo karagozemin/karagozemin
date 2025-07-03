@@ -22,6 +22,11 @@ Hi, I'm Emin Karagöz! Here's a collection of my projects and repositories.
 ### 6. 🤖 [Telegram Cleaner Bot](https://github.com/karagozemin/telegram-cleaner-bot)
 An automation tool for Telegram groups. Helps clean up old messages and manage chat history more effectively using simple bot commands. Built with a focus on usability and group management.
 
+### 7. 🎟️ [Stellar Lottery DApp](https://github.com/overblocklabs)
+A decentralized lottery platform built on the Stellar blockchain, developed as part of the OverBlock team.
+I contributed as a full-stack developer, creating the on-chain logic and frontend interface using Soroban smart contracts and modern web technologies.
+The project enables users to participate in transparent, blockchain-based lotteries with wallet integration and a user-friendly UI.
+
 ---
 
 🌍 **Connect with me:**  
