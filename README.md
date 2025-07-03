@@ -26,4 +26,4 @@ An automation tool for Telegram groups. Helps clean up old messages and manage c
 
 🌍 **Connect with me:**  
 [Twitter](https://x.com/kaptan_web3)
-[LinkedIn](https://www.linkedin.com/in/emin-karagoz/)
+[LinkedIn]([https://www.linkedin.com/in/emin-karagoz/)](https://www.linkedin.com/in/emin-karag%C3%B6z/)
