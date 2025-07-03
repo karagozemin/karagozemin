@@ -19,8 +19,11 @@ Hi, I'm Emin Karagöz! Here's a collection of my projects and repositories.
 ### 5. ⏳ [Pomodoro Timer](https://github.com/karagozemin/Pomodoro) 
    **Description:** A simple Pomodoro timer built with HTML, CSS, and JavaScript. Helps improve focus and productivity by following the Pomodoro technique with customizable work and break intervals.
 
+### 6. 🤖 [Telegram Cleaner Bot](https://github.com/karagozemin/telegram-cleaner-bot)
+An automation tool for Telegram groups. Helps clean up old messages and manage chat history more effectively using simple bot commands. Built with a focus on usability and group management.
+
 ---
 
 🌍 **Connect with me:**  
 [Twitter](https://x.com/kaptan_web3)
-[LinkedIn](https://www.linkedin.com/in/emin-karagöz/)
+[LinkedIn](https://www.linkedin.com/in/emin-karagoz/)
