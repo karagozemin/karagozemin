@@ -13,7 +13,7 @@ Supports mainnet & testnet, with smart contracts, a relayer service, and a polis
 I led full-stack development including Solidity contracts, Stellar SDK logic, event-based relayer and UI.  
 🏆 ETHGlobal Unite Finalist  
 🛠 Tech: Solidity, Stellar SDK, TypeScript, React  
-🎬 [Demo Video](https://www.youtube.com/watch?v=YourVideoLink)
+🎬 [Demo Video](https://youtu.be/Ey9Psqh4YpY) 🌐 [Live App](https://over-sync-1nch-fusion-frontend-sigma.vercel.app)
 
 ---
 
