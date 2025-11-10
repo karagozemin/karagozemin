@@ -23,7 +23,7 @@ Users can create, trade, and interact with AI agents through real-time chat powe
 Features auto-listing, cross-browser visibility, and a complete fee system with platform commissions.  
 🤖 Built on 0G Network infrastructure  
 🛠 Tech: Next.js, Solidity, 0G Storage, 0G Compute, TypeScript  
-🎬 [Demo Video](https://www.youtube.com/watch?v=Q8J8AylG4uA) 🌐 [Live App](https://0-gents-marketplace.vercel.app/)
+🎬 [Demo Video](https://www.youtube.com/watch?v=Q8J8AylG4uA) 🌐 [Live App](https://0gents.shop)
 
 ---
 
