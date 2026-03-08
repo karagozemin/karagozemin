@@ -33,7 +33,7 @@ Enables users to create and manage LinkTree-style profiles with **zkLogin (Googl
 Frontend is decentralized using **Walrus Sites**, and the backend handles gas sponsorship with **Enoki SDK**.  
 Features include animated **DarkVeil WebGL UI**, mobile-first design, and fully on-chain profile storage.  
 🧩 Tech: Move, React, TypeScript, Node.js, Walrus Sites, Enoki SDK  
-🌐 [Live App](https://qedi.trwal.app) · 📦 [Smart Contract](https://suiexplorer.com/object/0xb2d7a68d8711ceac4a5ee6c7fbec61456083d6ff20858b6d38f86c9922d02673?network=testnet)
+🌐 [Live App](https://qedi-sui.vercel.app) · 📦 [Smart Contract](https://suiexplorer.com/object/0xb2d7a68d8711ceac4a5ee6c7fbec61456083d6ff20858b6d38f86c9922d02673?network=testnet)
 
 ---
 
