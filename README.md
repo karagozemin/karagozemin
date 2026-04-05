@@ -45,35 +45,35 @@ Designed as a trust-minimized coordination and settlement model for adversarial 
 ### [HYDRA – Parallel AI Agent Multisig Wallet](https://github.com/karagozemin/HYDRA)
 A parallel AI agent multisig wallet built for the Monad Hackathon.  
 Designed to let multiple AI agents evaluate and protect wallet actions in parallel before execution.  
-🛠 Tech: Solidity
+🛠 Tech: Solidity 🌐 [Live App](https://hydra-1.vercel.app)
 
 ---
 
 ### [Silent – Privacy-Native Compliance Clearing Layer](https://github.com/karagozemin/Silent)
 A privacy-native compliance clearing layer for on-chain transaction flows.  
 Built for sensitive financial operations such as payments, OTC, treasury, payroll, and vendor payouts.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://silent-web-eight.vercel.app)
 
 ---
 
 ### [FortiLayer – Programmable Treasury Execution Firewall](https://github.com/karagozemin/FortiLayer)
 A programmable execution firewall for treasury operations on Arbitrum.  
 Focused on adding security controls and policy enforcement to treasury workflows.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://forti-layer.vercel.app)
 
 ---
 
 ### [AEGIS Prime – Confidential RWA Risk Engine](https://github.com/karagozemin/AEGIS)
 A confidential Real-World Asset risk engine that computes Value-at-Risk scores while keeping sensitive financial data private.  
 Built with a strong focus on privacy-preserving risk analysis.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://aegis-web-pied.vercel.app)
 
 ---
 
 ### [AXIS – Aleo Extended Identity Score](https://github.com/karagozemin/AXIS)
 A privacy-preserving DeFi protocol for under-collateralized lending through confidential credit scoring on Aleo.  
 Explores identity, lending, and privacy in a single system.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://axis-protocol.vercel.app)
 
 ---
 
@@ -88,6 +88,7 @@ Tracks wallet health metrics like Health Factor and LTV, and sends automated Tel
 A decentralized lottery platform developed for the Stellar Hack (Pera) Hackathon.  
 I contributed as a full-stack developer, building Soroban smart contracts and the frontend interface.  
 Enables trustless lottery draws with wallet integration and on-chain logic.
+🌐 [Live App](https://lotellar.netlify.app)
 
 ---
 
@@ -102,51 +103,45 @@ Focused on improving blockchain-based login and privacy control.
 ### [NEGO – AI Agent Negotiation Protocol](https://github.com/karagozemin/NEGO)
 A protocol where two AI agents — a buyer and a seller — negotiate service prices in real time.  
 Combines LLM-powered conversations, rule-based pricing, and on-chain settlement.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://nego-gamma.vercel.app)
 
 ---
 
-### [walron – Web3 Patreon on Sui](https://github.com/karagozemin/walron)
+### [Walron – Web3 Patreon on Sui](https://github.com/karagozemin/walron)
 A creator platform built with Seal encryption and Walrus storage on Sui.  
 Creators own their content, fans get verifiable access, and everything runs on-chain.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://walron-delta.vercel.app)
 
 ---
 
 ### [LYNORA – Decentralized Prediction Market](https://github.com/karagozemin/LYNORA)
 A decentralized prediction market platform built on Massa blockchain.  
 Allows users to create and trade on real-time binary prediction markets.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://lynora.vercel.app)
 
 ---
 
 ### [ZYRION – Prediction Market UX Playground](https://github.com/karagozemin/ZYRION)
 A playground for building prediction-market UX on top of Linera-style microchains.  
 Runs in mock mode for fast public demos and interface experiments.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://zyrion.vercel.app)
 
 ---
 
-### [narc4s – Decentralized Twitter Raffle System](https://github.com/karagozemin/narc4s)
+### [Narc4s – Decentralized Twitter Raffle System](https://github.com/karagozemin/narc4s)
 A decentralized Twitter raffle system built on Monad testnet.  
 Powered by Pyth VRF for provably fair randomness and real-time Twitter API integration.  
 🛠 Tech: TypeScript
 
 ---
 
-### [Somiverse](https://github.com/karagozemin/somiverse)
-An isometric universe game built on the Somnia blockchain.  
-Developed using Phaser.js with a game-first on-chain ecosystem direction.  
-🛠 Tech: JavaScript
-
----
 
 ## 🌐 Explorers & Visualization Projects
 
 ### [Zerix – 0G Network Explorer](https://github.com/karagozemin/0G-project)
 An AI-powered real-time blockchain explorer and network visualizer for the 0G Network.  
 Built to visualize network activity in a more interactive and developer-friendly way.  
-🛠 Tech: TypeScript
+🛠 Tech: TypeScript 🌐 [Live App](https://zerix-gamma.vercel.app)
 
 ---
 
