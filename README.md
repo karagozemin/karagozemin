@@ -146,6 +146,12 @@ Built to visualize network activity in a more interactive and developer-friendly
 
 ---
 
+### [Fhelix – Zama Network Visualizer](https://github.com/karagozemin/fhelix)
+An elegant network visualizer and explorer for the Zama Network — the world’s first Fully Homomorphic Encryption (FHE) blockchain.  
+Features an interactive 3D globe, live transaction flows, and real-time network statistics for exploring network activity in a more intuitive way.  
+🛠 Tech: TypeScript  
+🌐 [Live App](https://zama-visualizer.vercel.app)
+
 ## ⚙️ Automation & Bots
 
 ### [Telegram Cleaner Bot](https://github.com/karagozemin/telegram-cleaner-bot)
