@@ -76,7 +76,7 @@ Tracks wallet health metrics like Health Factor and LTV, and sends automated Tel
 
 ---
 
-### [Stellar Lottery DApp](https://github.com/overblocklabs)
+### [Stellar Lottery DApp](https://github.com/overblocklabs/frontend-app)
 A decentralized lottery platform developed for the Stellar Hack (Pera) Hackathon.  
 I contributed as a full-stack developer, building Soroban smart contracts and the frontend interface.  
 Enables trustless lottery draws with wallet integration and on-chain logic.
