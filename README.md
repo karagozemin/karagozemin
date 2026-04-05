@@ -34,6 +34,14 @@ Includes zkLogin, sponsored transactions, PTB-based batch link addition, and dec
 
 ---
 
+### [BLACKOUT EXCHANGE](https://github.com/karagozemin/BLACKOUT)
+A deterministic simulation of a degraded emergency environment where heterogeneous agents coordinate without a central orchestrator.  
+The system rejects malicious completion claims and allows settlement only after verifiable coordination proof.  
+Designed as a trust-minimized coordination and settlement model for adversarial conditions.  
+🌐 [Live App](https://blackout-delta-ashen.vercel.app) · 🧾 [Pitch Deck](https://blackout-exchange-tuirm83.gamma.site)
+
+---
+
 ### [HYDRA – Parallel AI Agent Multisig Wallet](https://github.com/karagozemin/HYDRA)
 A parallel AI agent multisig wallet built for the Monad Hackathon.  
 Designed to let multiple AI agents evaluate and protect wallet actions in parallel before execution.  
