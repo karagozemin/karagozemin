@@ -63,6 +63,15 @@ Focused on adding security controls and policy enforcement to treasury workflows
 
 ---
 
+### [Fortexa – Agent Payment Firewall on Stellar](https://github.com/karagozemin/Fortexa)
+A policy-controlled execution firewall for autonomous agent payments on Stellar.  
+Introduces programmable validation layers that intercept, evaluate, and enforce rules before any transaction is executed.  
+Designed to secure AI-driven financial actions in trust-minimized environments.  
+🛠 Tech: TypeScript, Stellar SDK  
+🌐 [Live App](https://fortexa-five.vercel.app)
+
+---
+
 ### [AEGIS Prime – Confidential RWA Risk Engine](https://github.com/karagozemin/AEGIS)
 A confidential Real-World Asset risk engine that computes Value-at-Risk scores while keeping sensitive financial data private.  
 Built with a strong focus on privacy-preserving risk analysis.  
