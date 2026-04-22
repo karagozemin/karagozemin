@@ -21,7 +21,7 @@ I led full-stack development including Solidity contracts, Stellar SDK logic, ev
 A decentralized marketplace for AI-powered Intelligent NFTs built on 0G Network.  
 Users can create, trade, and interact with AI agents through real-time chat powered by 0G Compute.  
 Features auto-listing, cross-browser visibility, and a complete fee system with platform commissions.      
-🏆 0G Buildathon Finalist and Winner
+🏆 0G Buildathon Finalist and Winner    
 🛠 Tech: Next.js, Solidity, 0G Storage, 0G Compute, TypeScript  
 🎬 [Demo Video](https://youtu.be/nIPRd8aUGBg) · 🌐 [Live App](https://0gents.shop)
 
