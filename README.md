@@ -27,6 +27,15 @@ Features auto-listing, cross-browser visibility, and a complete fee system with 
 
 ---
 
+### [0G Forge – Terminal-Native Builder CLI](https://github.com/karagozemin/0G-Forge)
+A terminal-first companion for the 0G app workflow, enabling prompt-driven project generation, local preview, Vercel deployment, and lightweight sync.
+
+Built as an inspectable builder CLI with plan/diff control before apply.
+🛠 Tech: TypeScript, Node.js, CLI, 0G Compute  
+🎬 [Demo](https://0g-forge.vercel.app) · 📦 [npm](https://www.npmjs.com/package/@kaptan_web3/og-cli)
+
+---
+
 ### [QEDI – On-Chain LinkTree Platform (Sui)](https://github.com/karagozemin/QEDI)
 A production-ready Web3 LinkTree built on Sui blockchain, combining Web2 simplicity with full decentralization.  
 Includes zkLogin, sponsored transactions, PTB-based batch link addition, and decentralized frontend hosting via Walrus Sites.  
@@ -40,6 +49,14 @@ A deterministic simulation of a degraded emergency environment where heterogeneo
 The system rejects malicious completion claims and allows settlement only after verifiable coordination proof.  
 Designed as a trust-minimized coordination and settlement model for adversarial conditions.  
 🌐 [Live App](https://blackout-delta-ashen.vercel.app) · 🧾 [Pitch Deck](https://blackout-exchange-tuirm83.gamma.site)
+
+---
+
+### [VEIL – Multi-Agent Conflict Intelligence Layer](https://github.com/karagozemin/VEIL)
+A real-time AI battleground where multiple agents analyze, contradict, and challenge each other before producing an outcome layer exposing consensus, manipulation risk, and projected impact.
+Features deterministic replay, live agent orchestration, cinematic war-room UI, and structured conflict escalation.
+🛠 Tech: React, TypeScript, Socket.IO, Framer Motion  
+🌐 [Live App](https://veil-web-sooty.vercel.app)
 
 ---
 
@@ -70,6 +87,14 @@ Introduces programmable validation layers that intercept, evaluate, and enforce 
 Designed to secure AI-driven financial actions in trust-minimized environments.  
 🛠 Tech: TypeScript, Stellar SDK  
 🌐 [Live App](https://fortexa-five.vercel.app)
+
+---
+
+### [RIPCORD Protocol – Perpetual Risk Execution Firewall](https://github.com/karagozemin/RIPCORD)
+An execution firewall for perpetual trading environments that monitors account risk and generates automated rescue plans before liquidation.
+Includes risk twin modeling, policy controls, rescue automation, counterfactual replay, and optional execution preparation.
+🛠 Tech: Python, React, Solana Wallet Adapter  
+🌐 [Live App](https://ripcord-five.vercel.app)
 
 ---
 
