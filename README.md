@@ -36,7 +36,7 @@ Includes inspectable plan/diff system before execution.
 
 ---
 
-### [Obscura Finance – Confidential RWA Deal Rooms](https://github.com/karagozemin/ObscuraFinance)
+### [Obscura Finance – Confidential RWA Deal Rooms](https://github.com/karagozemin/Obscura)
 A confidential funding layer for private credit and RWA issuance using encrypted sealed bids, permissioned auditor disclosure, and onchain repayment settlement.  
 
 Built with ERC-7984 Confidential Tokens, ERC-3643 identity compliance, and ERC-7540 async vault patterns to enable institutional-grade private debt coordination on Arbitrum.  
