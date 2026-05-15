@@ -11,11 +11,10 @@ This is a curated collection of my most meaningful work — spanning hackathons,
 ## 🏆 Hackathon & Infrastructure Projects
 
 ### [OverSync – ETH ⇄ XLM Cross-Chain Bridge](https://github.com/karagozemin/OverSync-1nchFusion)
-A cross-chain bridge between Ethereum and Stellar using HTLCs and 1inch Fusion+.  
-Includes smart contracts, relayer infrastructure, and a production-ready frontend.  
+OverSync moves native assets between Ethereum and Stellar atomically. Funds are locked in hash-time-lock contracts on both chains; settlement is a sha256 preimage reveal, not a multisig attestation. If anything in the bridge fails — coordinator down, resolver malicious, RPC rate-limited, frontend offline — the locked funds either settle to the beneficiary or refund permissionlessly to the user. There is no state in which user funds are stranded under operator control.
 🏆 ETHGlobal Unite Finalist  
 🛠 Tech: Solidity, Stellar SDK, TypeScript, React  
-🎬 [Demo Video](https://youtu.be/Ey9Psqh4YpY) · 🌐 [Live App](https://over-sync-1nch-fusion-frontend-sigma.vercel.app)
+🎬 [Demo Video](https://youtu.be/Ey9Psqh4YpY) · 🌐 [Live App](https://oversync.vercel.app)
 
 ---
 
