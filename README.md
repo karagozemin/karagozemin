@@ -36,6 +36,16 @@ Includes inspectable plan/diff system before execution.
 
 ---
 
+### [Kavro Protocol – Private Credit Clearing Network for Autonomous Agents](https://github.com/karagozemin/Kavro-Protocol)
+A protocol-shaped private credit clearing network on 0G where issuer, investor, underwriter, auditor, and settlement agents coordinate confidential RWA funding rounds.  
+
+Kavro combines sealed bid commitments, private AI underwriting, permissioned auditor disclosure, and on-chain repayment settlement — separating public verifiability from sensitive credit intelligence.  
+
+🛠 Tech: Next.js, Solidity, TypeScript, 0G Storage, 0G Compute, 0G Chain  
+🌐 [Live App](https://kavro-protocol.vercel.app)
+
+---
+
 ### [Obscura Finance – Confidential RWA Deal Rooms](https://github.com/karagozemin/Obscura)
 A confidential funding layer for private credit and RWA issuance using encrypted sealed bids, permissioned auditor disclosure, and onchain repayment settlement.  
 
