@@ -212,6 +212,14 @@ A voice AI relay for situations where people cannot safely speak during emergenc
 
 # 🌐 Connect with Me
 
-🐦 https://x.com/kaptan_web3  
-🧪 https://t.me/kaptan_web3
-💼 https://www.linkedin.com/in/emin-karagozz
+🐦 <a href="https://x.com/kaptan_web3" target="_blank" rel="noopener noreferrer">
+    https://x.com/kaptan_web3
+</a><br>
+
+💼 <a href="https://www.linkedin.com/in/emin-karagozz" target="_blank" rel="noopener noreferrer">
+    https://www.linkedin.com/in/emin-karagozz
+</a><br>
+
+💬 <a href="https://t.me/kaptan_web3" target="_blank" rel="noopener noreferrer">
+    https://t.me/kaptan_web3
+</a>
