@@ -2,8 +2,6 @@
 
 Hi, I'm Emin Karagoz — a Web3 developer building privacy-preserving coordination systems, cross-chain infrastructure, and agent-driven financial applications.
 
-My work focuses on economic security, adversarial system design, confidential computation, and intelligence under uncertainty.
-
 This is a curated collection of infrastructure, protocol, and research projects spanning Stellar, Ethereum, Sui, Zama FHE, 0G, and AI agent systems.
 
 ---
