@@ -52,6 +52,18 @@ If coordinators, resolvers, RPC infrastructure, or the frontend fail, funds eith
 
 ---
 
+### [0Gents – AI-Powered INFT Marketplace](https://github.com/karagozemin/0Gents-Marketplace)
+
+A decentralized marketplace for AI-powered Intelligent NFTs built on 0G Network.
+
+🏆 **0G Buildathon Finalist & Winner**
+
+🛠 **Tech:** Next.js, Solidity, 0G Compute, TypeScript
+
+🎬 [Demo Video](https://youtu.be/nIPRd8aUGBg) · 🌐 [Live App](https://0gents.shop)
+
+---
+
 ### [AgentAllowance – Policy-Aware x402 Infrastructure for AI Agents](https://github.com/karagozemin/AgentAllowance)
 
 Autonomous spending infrastructure that allows AI agents to transact on Stellar under enforceable wallet policies.
@@ -103,18 +115,6 @@ A privacy-preserving proof-of-reserves system for Stellar.
 Solvent allows institutions to demonstrate asset backing without publicly exposing sensitive treasury structure or account-level information.
 
 🛠 **Tech:** Stellar, Zero-Knowledge Proofs, TypeScript
-
----
-
-### [0Gents – AI-Powered INFT Marketplace](https://github.com/karagozemin/0Gents-Marketplace)
-
-A decentralized marketplace for AI-powered Intelligent NFTs built on 0G Network.
-
-🏆 **0G Buildathon Finalist & Winner**
-
-🛠 **Tech:** Next.js, Solidity, 0G Compute, TypeScript
-
-🎬 [Demo Video](https://youtu.be/nIPRd8aUGBg) · 🌐 [Live App](https://0gents.shop)
 
 ---
 
