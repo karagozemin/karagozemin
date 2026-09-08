@@ -70,7 +70,7 @@ Assay evaluates which creator information sources are worth purchasing and pays 
 
 The system turns data evaluation and purchasing into a machine-native workflow.
 
-🏆 **Standalone Winner — Arc & Canteen Lepton Agents Hackathon**
+🏆 **Standout Winner — Arc & Canteen Lepton Agents Hackathon**
 
 🛠 **Tech:** TypeScript, x402, Arc, AI Agents
 
