@@ -1,6 +1,4 @@
-# 👋 Welcome to My GitHub Portfolio!
-
-Hi, I'm **Emin Karagöz** — a Web3 developer building privacy-preserving protocols, autonomous agent infrastructure, cross-chain systems, and programmable financial applications.
+# 👋 I'm **Emin Karagöz** — a Web3 developer building privacy-preserving protocols, autonomous agent infrastructure, cross-chain systems, and programmable financial applications.
 
 My work focuses on **Stellar/Soroban, confidential coordination, AI agent payments, RWA infrastructure, cross-chain execution, and verifiable autonomous systems**.
 
