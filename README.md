@@ -1,6 +1,9 @@
-# 👋 I'm **Emin Karagöz** — a Web3 developer building privacy-preserving protocols, autonomous agent infrastructure, cross-chain systems, and programmable financial applications.
+# 👋 I'm **Emin Karagöz**
 
-My work focuses on **Stellar/Soroban, confidential coordination, AI agent payments, RWA infrastructure, cross-chain execution, and verifiable autonomous systems**.
+I'm a software developer building across **Web3, AI, infrastructure, developer tooling, and financial systems**.
+
+I work on everything from smart contracts and SDKs to autonomous agents, cryptographic protocols, backend systems, and developer tools — usually with a focus on turning complex ideas into products that actually work.
+
 
 ---
 
