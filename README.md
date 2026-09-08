@@ -64,6 +64,17 @@ A decentralized marketplace for AI-powered Intelligent NFTs built on 0G Network.
 
 ---
 
+### [Assay – Autonomous Creator Intelligence Buyer](https://github.com/karagozemin/Assay)
+
+Assay evaluates which creator information sources are worth purchasing and pays them per use through x402.
+
+The system turns data evaluation and purchasing into a machine-native workflow.
+
+🏆 Standalone Winner — Arc & Canteen Lepton Agents Hackathon
+🛠 **Tech:** TypeScript, x402, Arc, AI Agents
+
+---
+
 ### [AgentAllowance – Policy-Aware x402 Infrastructure for AI Agents](https://github.com/karagozemin/AgentAllowance)
 
 Autonomous spending infrastructure that allows AI agents to transact on Stellar under enforceable wallet policies.
@@ -166,15 +177,6 @@ Designed for agent economies where buyers continuously generate demand and provi
 
 🛠 **Tech:** Python, AI Agents, RFQ Markets, Autonomous Commerce
 
----
-
-### [Assay – Autonomous Creator Intelligence Buyer](https://github.com/karagozemin/Assay)
-
-Assay evaluates which creator information sources are worth purchasing and pays them per use through x402.
-
-The system turns data evaluation and purchasing into a machine-native workflow.
-
-🛠 **Tech:** TypeScript, x402, Arc, AI Agents
 
 ---
 
