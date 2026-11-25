@@ -1,228 +1,93 @@
-# 👋 I'm **Emin Karagöz**
+# Emin Karagöz
 
-I'm a software developer building across **Web3, AI, infrastructure, developer tooling, and financial systems**.
+**Software Engineer | Full-Stack · Backend · Applied AI**
 
-I work on everything from smart contracts and SDKs to autonomous agents, cryptographic protocols, backend systems, and developer tools — usually with a focus on turning complex ideas into products that actually work.
+I build software products end to end: turning a problem into a working application, designing the data model and APIs, implementing the frontend, and shipping the system. My work spans LLM applications, developer tools, workflow automation, and financial infrastructure.
 
+Based in İzmir, Türkiye · Open to relocation
 
----
+[LinkedIn](https://www.linkedin.com/in/emin-karagozz) · [X](https://x.com/kaptan_web3) · [Selected projects below](#selected-engineering-work)
 
-# 🏆 Featured Infrastructure & Protocols
+## Selected engineering work
 
-### [Sub Rosa – Sealed Coordination Infrastructure on Stellar](https://github.com/karagozemin/Sub-Rosa)
+### [Assay](https://github.com/karagozemin/Assay) — Agent workflows and decision systems
+**Python · LangGraph · FastAPI · TypeScript · Node.js · SQLite · Next.js**
 
-A confidential coordination primitive for Stellar that enables sealed voting, auctions, grant scoring, procurement, and allocation rounds.
+Built an autonomous research workflow that evaluates information sources, decides whether to buy, skip, or reuse cached results, and records the decision. The system combines a Python/LangGraph agent, a FastAPI service streaming run events over SSE, a TypeScript backend with authorization and persistent decision ledgers, and a web interface for following each run.
 
-Participants commit encrypted decisions to a Soroban contract and lock escrow before a future Drand round. Once the reveal round arrives, commitments are opened simultaneously through publicly verifiable timelock cryptography, removing operators from the trust path.
+[Live app](https://www.assay-web.site/app) · [Source & technical details](https://github.com/karagozemin/Assay)
 
-Built as reusable infrastructure for Stellar applications, including a Soroban round contract, TypeScript SDK, timelock encryption toolkit, permissionless keeper, and integration templates.
+### [0G Forge](https://github.com/karagozemin/0G-Forge) — Developer CLI and LLM agent runtime
+**TypeScript · Node.js · LLM APIs · CLI · npm**
 
-🏆 **1st Place — Hack Privacy Track, Build On Stellar Hackathon, IBW 2026**
+Built a command-line tool for generating, editing, previewing and deploying applications. Implemented reusable agent-runtime components—`AgentLoop`, `ToolRegistry`, and `MemoryLayer`—with retry/skip/abort behavior and support for OpenAI-compatible inference endpoints.
 
-🛠 **Tech:** Soroban, Rust, TypeScript, Stellar, Drand, Timelock Encryption
+[Published CLI on npm](https://www.npmjs.com/package/@kaptan_web3/og-cli) · [Source](https://github.com/karagozemin/0G-Forge)
 
-🌐 [Live App](https://sub-rosa-web.vercel.app)
+### [Sub Rosa](https://github.com/karagozemin/Sub-Rosa) — Open-source workflow and SDK platform
+**TypeScript · Rust · SDKs · Encryption · Automated testing · CI**
 
----
+Founded and independently engineered a platform for confidential submissions and verifiable multi-party workflows. Built the contract and lifecycle logic, four published TypeScript packages, integration adapters, automated operations, a hosted application, and verification tools.
 
-### [QuietBook – Confidential RWA Bookbuilding on Stellar](https://github.com/karagozemin/QuietBook)
+- **2,871 recorded npm downloads** across four packages through November 8, 2026 (downloads, not unique users).
+- **702 passing JavaScript/TypeScript and Rust tests**, recorded during project verification.
+- External development work accepted or listed by **Pollar, Cosmos Pay, Proofwork and OFFER HUB**; additional independent reuse by StelHacks.
+- Documented **three completed testnet auctions** and one capped mainnet proof; these are technical execution evidence, not commercial transaction volume.
 
-Confidential bookbuilding infrastructure for tokenized real-world assets on Stellar.
+[Live app](https://www.sub-rosa.online/) · [SDK](https://www.npmjs.com/package/@sub-rosa/sdk) · [Implementation and evidence](https://github.com/karagozemin/Sub-Rosa)
 
-QuietBook lets issuers collect investor bids without exposing bid prices, sizes, or balances during price discovery while keeping final allocation and settlement verifiable on-chain.
+### [OverSync](https://github.com/karagozemin/OverSync) — Event-driven backend and transaction orchestration
+**TypeScript · Node.js · Express · SQLite · PostgreSQL · Docker**
 
-🏆 **1st Place — Stellar Builder Summit São Paulo 2026**
+Developed an event-driven coordinator with REST APIs, order state-machine guards, event listeners, persistence and health endpoints. Implemented SQLite storage and a PostgreSQL adapter, and designed failure and refund paths for operations that cross multiple systems.
 
-🛠 **Tech:** Stellar, Soroban, TypeScript, Confidential Bookbuilding, RWA Infrastructure
+[Live testnet app](https://oversync.vercel.app/) · [Coordinator](https://github.com/karagozemin/OverSync/tree/master/coordinator) · [Database code](https://github.com/karagozemin/OverSync/blob/master/coordinator/src/persistence/db.ts)
 
----
+### [FIRST100](https://github.com/karagozemin/FIRST100) — Full-stack product and authenticated gateway
+**TypeScript · React · Node.js · Rust · API gateway · CI**
 
-### [OverSync – ETH ⇄ XLM Cross-Chain Bridge](https://github.com/karagozemin/OverSync)
+Developed a multi-role product covering service publishers, purchasers, rights holders and auditors, alongside an authenticated service gateway, reusable SDK and end-to-end tests. The testnet evidence documents **two finalized service orders**, delivery confirmations, and a refund path; it is not presented as paying-customer traction.
 
-OverSync moves native assets between Ethereum and Stellar atomically.
+[Live testnet app](https://first100-liard.vercel.app/) · [Source](https://github.com/karagozemin/FIRST100) · [Verified testnet evidence](https://github.com/karagozemin/FIRST100/blob/main/evidence/README.md)
 
-Funds are locked in hash-time-lock contracts on both chains, with settlement triggered by a SHA-256 preimage reveal rather than multisig attestations.
+### [Agent Commerce Hub](https://github.com/karagozemin/Agent-Commerce-Hub) — Service marketplace and API platform
+**Next.js · TypeScript · PostgreSQL · REST · MCP · Payment verification**
 
-If coordinators, resolvers, RPC infrastructure, or the frontend fail, funds either settle correctly or become permissionlessly refundable.
+Implemented a marketplace and machine-facing gateway for discovering and invoking paid services, including seller authentication, service registries, PostgreSQL persistence, request validation and payment-proof verification. Separates mock-mode activity from verified payment flows.
 
-🏆 **ETHGlobal Unite Finalist**
+[Source & architecture](https://github.com/karagozemin/Agent-Commerce-Hub)
 
-🛠 **Tech:** Solidity, Stellar SDK, TypeScript, React, HTLC, 1inch Fusion+
+## Experience and open source
 
-🎬 [Demo Video](https://youtu.be/Ey9Psqh4YpY) · 🌐 [Live App](https://oversync.vercel.app)
+- **OverBlock — Co-founder / Full-Stack Software Engineer (2023–present).** Product engineering across web applications, APIs and early-stage products. [Example: QEDI](https://github.com/karagozemin/QEDI), a React/TypeScript application with Node.js APIs, authentication and privacy controls.
+- **GOAT Network — Developer Advocate (2026).** Developer-facing work around APIs, agent payments and integrations.
+- **Gno.land ecosystem — Developer advocacy and tooling contributions.** Tested builder onboarding end to end, documented issues and supplied reproducible examples. [Onboarding report](https://github.com/karagozemin/gno-kaptan)
+- **Drips Network — Open-source maintainer.** Maintained developer-facing open-source work and technical documentation.
 
----
+## Skills
 
-### [0Gents – AI-Powered INFT Marketplace](https://github.com/karagozemin/0Gents-Marketplace)
+| Area | Tools and technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python, Rust, Solidity, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, dashboard interfaces |
+| **Backend & APIs** | Node.js, Express, FastAPI, REST, Server-Sent Events, MCP |
+| **Databases** | SQLite, PostgreSQL (schema design and adapter implementation) |
+| **Applied AI** | LangGraph, LLM API integration, tool execution, multi-step agent workflows, validation |
+| **Delivery & tooling** | Docker, GitHub Actions, automated tests, npm publishing, TypeScript SDKs, Vercel, Render |
 
-A decentralized marketplace for AI-powered Intelligent NFTs built on 0G Network.
+## Selected recognition
 
-🏆 **0G Buildathon Finalist & Winner**
+- **1st Place — Build on Stellar, Istanbul Blockchain Week 2026 (Privacy Track)** · Sub Rosa
+- **1st Place — Stellar Builder Summit São Paulo 2026 (Enterprise / RWA)** · QuietBook
+- **Standout Winner — Arc & Canteen Lepton Agents Hackathon** · Assay
+- **Finalist — ETHGlobal Unite** · OverSync
 
-🛠 **Tech:** Next.js, Solidity, 0G Compute, TypeScript
+## Education
 
-🎬 [Demo Video](https://youtu.be/nIPRd8aUGBg) · 🌐 [Live App](https://0gents.shop)
-
----
-
-### [Assay – Autonomous Creator Intelligence Buyer](https://github.com/karagozemin/Assay)
-
-Assay evaluates which creator information sources are worth purchasing and pays them per use through x402.
-
-The system turns data evaluation and purchasing into a machine-native workflow.
-
-🏆 **Standout Winner — Arc & Canteen Lepton Agents Hackathon**
-
-🛠 **Tech:** TypeScript, x402, Arc, AI Agents
-
-🎬 [Demo Video](https://youtu.be/S8638Z5VNK4) · 🌐 [Live App](https://assay-web.vercel.app)
-
-
-
-
----
-
-### [AgentAllowance – Policy-Aware x402 Infrastructure for AI Agents](https://github.com/karagozemin/AgentAllowance)
-
-Autonomous spending infrastructure that allows AI agents to transact on Stellar under enforceable wallet policies.
-
-AgentAllowance combines delegated authorization, spending limits, recipient policies, and x402 payment flows so agents can pay for services without receiving unrestricted treasury access.
-
-🛠 **Tech:** Stellar, Soroban, x402, Smart Accounts, TypeScript, OpenZeppelin
+**Atatürk University** — Computer Programming (distance learning, in progress)
 
 ---
 
-### [Agent Commerce Hub – Marketplace for Paid AI Services](https://github.com/karagozemin/Agent-Commerce-Hub)
+Many more projects exist, but this page highlights work that best demonstrates product engineering, backend systems, developer tooling and applied AI. [Browse the full earlier project catalog](./README_ARCHIVE_2026-11-25.md).
 
-A marketplace where AI services are discovered, called, and paid for autonomously.
-
-Each tool invocation is paid through **GOAT Flow / x402**, while backend payment verification ensures services are fulfilled only after settlement confirmation.
-
-🛠 **Tech:** GOAT Network, GOAT Flow, x402, TypeScript, AI Agents
-
----
-
-### [Kavro Protocol – Private Credit Clearing Network for Autonomous Agents](https://github.com/karagozemin/Kavro-Protocol)
-
-A confidential credit coordination network where issuer, investor, underwriter, auditor, and settlement agents coordinate private RWA funding rounds.
-
-Kavro combines sealed commitments, AI underwriting, permissioned disclosure, and on-chain repayment settlement while separating public verifiability from sensitive credit intelligence.
-
-🛠 **Tech:** Next.js, Solidity, TypeScript, 0G Storage, 0G Compute, 0G Chain
-
-🌐 [Live App](https://kavro-protocol.vercel.app)
-
----
-
-### [CloakOps – Confidential Token Distribution Layer](https://github.com/karagozemin/CloakOps)
-
-A confidential campaign layer for token operations built on Zama FHE.
-
-CloakOps enables contributor rewards, advisor vesting, and community distributions where allocations and metadata remain encrypted on-chain while campaign rules stay publicly verifiable.
-
-🛠 **Tech:** Solidity, TypeScript, Next.js, Zama FHE, TokenOps
-
-🌐 [Live App](https://cloak-ops.vercel.app)
-
----
-
-### [Solvent – Zero-Knowledge Proof of Reserves on Stellar](https://github.com/karagozemin/Solvent)
-
-A privacy-preserving proof-of-reserves system for Stellar.
-
-Solvent allows institutions to demonstrate asset backing without publicly exposing sensitive treasury structure or account-level information.
-
-🛠 **Tech:** Stellar, Zero-Knowledge Proofs, TypeScript
-
----
-
-### [0G Forge – Terminal-Native Builder CLI](https://github.com/karagozemin/0G-Forge)
-
-A terminal-first builder for 0G workflows with prompt-driven generation, local preview, and deployment pipelines.
-
-🛠 **Tech:** TypeScript, Node.js, CLI
-
-🌐 [Demo](https://0g-forge.vercel.app) · 📦 [npm](https://www.npmjs.com/package/@kaptan_web3/og-cli)
-
----
-
-# 🤖 Autonomous Agents & Agent Commerce
-
-### [ReSource – Self-Healing Buyer for Agent Services](https://github.com/karagozemin/ReSource)
-
-An autonomous service buyer designed to recover when agent services fail.
-
-ReSource evaluates providers, executes purchases, verifies outcomes, and searches for alternative execution paths when a service becomes unavailable or returns an unusable result.
-
-🛠 **Tech:** TypeScript, AI Agents, Autonomous Commerce, Keeper Infrastructure
-
----
-
-### [RAVEN – Real-Time Autonomous Exposure Neutralizer](https://github.com/karagozemin/RAVEN)
-
-An event-aware autonomous market agent built to react to live football market shocks and dynamically manage exposure.
-
-🛠 **Tech:** Python, AI Agents, Market Automation
-
----
-
-### [LifeOps – Agent-Consumable Lifestyle ASP](https://github.com/karagozemin/LifeOps)
-
-An agent-consumable service provider built for the OKX.AI ecosystem.
-
-Paid calls settle in **USDT0 on X Layer through x402 v2 and the OKX Payments SDK**, allowing autonomous agents to purchase services programmatically.
-
-🛠 **Tech:** Python, OKX.AI, X Layer, x402, USDT0, AI Agents
-
----
-
-### [CROON RFQ – Autonomous Recurring-Demand Engine](https://github.com/karagozemin/Croon-RFQ)
-
-A recurring-demand and request-for-quote engine for autonomous agents.
-
-Designed for agent economies where buyers continuously generate demand and providers compete to satisfy requests programmatically.
-
-🛠 **Tech:** Python, AI Agents, RFQ Markets, Autonomous Commerce
-
-
----
-
-### [r402 – Proof-Bound Agent Payment Firewall](https://github.com/karagozemin/r402)
-
-A payment firewall for MetaMask Smart Accounts that constrains autonomous agents to narrowly scoped permissions.
-
-Each payment is bound to the exact request that authorized it, allowing child agents to operate without receiving unrestricted wallet authority.
-
-🛠 **Tech:** TypeScript, MetaMask Smart Accounts, x402, Agent Permissions
-
----
-
-### [Signet – Offline Stablecoin Payment Vouchers](https://github.com/karagozemin/Signet)
-
-Pre-funded stablecoin vouchers that can be accepted over a local peer-to-peer mesh while offline and settled on-chain once connectivity returns.
-
-🛠 **Tech:** TypeScript, Stablecoin Payments, P2P Networking
-
----
-
-# 🔧 Open Source & Ecosystem Contributions
-
-Beyond product development, I contribute to open-source developer tooling and ecosystem infrastructure.
-
-* **GitHub Linguist** — contributed toward Gno language recognition
-* **awesome-gno** — contributions to the Gno.land developer ecosystem
-* **gno-kaptan** — evidence-backed exploration of the Gno.land builder onboarding flow
-* **KeeperHub First Mile** — preflight infrastructure for evidence-backed KeeperHub workflow inputs
-
----
-
-# 🌐 Connect with Me
-
-🐦 **X / Twitter**
-https://x.com/kaptan_web3
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/emin-karagozz
-
-💬 **Telegram**
-https://t.me/kaptan_web3
+*Usage numbers on this page are scoped to the source and period stated; npm downloads are not unique users, and demos or testnet activity are not counted as production customers.*
