@@ -1,4 +1,4 @@
-# Emin Karagöz
+# 👋 Emin Karagöz
 
 **Software Engineer | Full-Stack · Backend · Applied AI**
 
@@ -8,7 +8,24 @@ Based in İzmir, Türkiye · Open to relocation
 
 [LinkedIn](https://www.linkedin.com/in/emin-karagozz) · [X](https://x.com/kaptan_web3) · [Selected projects below](#selected-engineering-work)
 
-## Selected engineering work
+## 🏆 Achievements
+
+**Hackathons & competitions**
+
+- **1st Place — Build on Stellar, Istanbul Blockchain Week 2026 (Privacy Track)** — [Sub Rosa](https://github.com/karagozemin/Sub-Rosa)
+- **1st Place — Stellar Builder Summit São Paulo 2026 (Enterprise, Compliance & RWA)** — [QuietBook](https://github.com/karagozemin/QuietBook)
+- **Winner — 0G Buildathon** — [0Gents](https://github.com/karagozemin/0Gents-Marketplace), an AI-powered NFT marketplace
+- **1st Place — x402 Hackathon** — Optimon, an AI-powered vault
+- **Standout Winner — Arc & Canteen Lepton Agents Hackathon** — [Assay](https://github.com/karagozemin/Assay)
+- **Finalist — ETHGlobal Unite 2025** — [OverSync](https://github.com/karagozemin/OverSync)
+- **Finalist — OKX Dev Day Singapore 2026** — [Meridian](https://github.com/karagozemin/Meridian)
+
+**Other recognition**
+
+- Completed **three Stellar InstaAwards development rounds** for Sub Rosa, continuing the product beyond its initial hackathon prototype.
+- Selected for international builder programs and events, including **Arbitrum Founder House London** and **Solana Breakpoint London 2026**. Received ecosystem travel support for events in **São Paulo, Lisbon and Singapore**.
+
+## 🛠️ Selected engineering work
 
 ### [Assay](https://github.com/karagozemin/Assay) — Agent workflows and decision systems
 **Python · LangGraph · FastAPI · TypeScript · Node.js · SQLite · Next.js**
@@ -57,7 +74,7 @@ Implemented a marketplace and machine-facing gateway for discovering and invokin
 
 [Source & architecture](https://github.com/karagozemin/Agent-Commerce-Hub)
 
-## Experience and open source
+## 💼 Experience and open source
 
 - **OverBlock — Co-founder / Full-Stack Software Engineer (2023–present).** Product engineering across web applications, APIs and early-stage products. [Example: QEDI](https://github.com/karagozemin/QEDI), a React/TypeScript application with Node.js APIs, authentication and privacy controls.
 - **GOAT Network — Developer Advocate (2026).** Developer-facing work around APIs, agent payments and integrations.
@@ -74,13 +91,6 @@ Implemented a marketplace and machine-facing gateway for discovering and invokin
 | **Databases** | SQLite, PostgreSQL (schema design and adapter implementation) |
 | **Applied AI** | LangGraph, LLM API integration, tool execution, multi-step agent workflows, validation |
 | **Delivery & tooling** | Docker, GitHub Actions, automated tests, npm publishing, TypeScript SDKs, Vercel, Render |
-
-## Selected recognition
-
-- **1st Place — Build on Stellar, Istanbul Blockchain Week 2026 (Privacy Track)** · Sub Rosa
-- **1st Place — Stellar Builder Summit São Paulo 2026 (Enterprise / RWA)** · QuietBook
-- **Standout Winner — Arc & Canteen Lepton Agents Hackathon** · Assay
-- **Finalist — ETHGlobal Unite** · OverSync
 
 ## Education
 
